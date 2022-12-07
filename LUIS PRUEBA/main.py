@@ -1,1 +1,0 @@
-print("VIVA EL PATRIARCADO")
