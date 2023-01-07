@@ -1,4 +1,4 @@
-
+var i,acum,acumu,contapa,contaimpa;
 acum=0;
 acumu=0;
 contapa=0;
@@ -9,16 +9,8 @@ for(i=1;i<=10;i++){
         acum+=num
         contapa=contapa+1}
     else
-        acumu+=num
-        contaimpa=contaimpa+1
+        acumu+=num;
+        contaimpa=contaimpa+1;
 }
 document.write(acum/contapa,"<br>")
 document.write(acumu/contaimpa)
-
-
-
-
-
-
-
-
